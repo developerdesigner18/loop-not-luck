@@ -1,0 +1,70 @@
+[
+  {
+    "personType": "criminalSuspect",
+    "caseNumber": "1",
+    "photos": {
+      "frontView": "https://img.freepik.com/premium-vector/cartoon-criminal-mugshot-police-station_70172-2077.jpg?w=2000",
+      "leftProfile": "https://img.freepik.com/premium-vector/cartoon-criminal-mugshot-police-station_70172-2077.jpg?w=2000",
+      "rightProfile": "https://img.freepik.com/premium-vector/cartoon-criminal-mugshot-police-station_70172-2077.jpg?w=2000",
+      "takenOn": "Mon Sep 05 2022 11:29:24 GMT+0530",
+      "areReviewed": false
+    },
+    "information": {
+      "cprNumber": "1",
+      "name": "Shubham",
+      "currentAddress": "Kosamba",
+      "physicalDescription": {}
+    },
+    "createdAt": "Mon Sep 05 2022 11:29:24 GMT+0530"
+  },
+  {
+    "personType": "criminalSuspect",
+    "caseNumber": "2",
+    "photos": {
+      "frontView": "https://img.freepik.com/premium-vector/prisoner-number-twelve-with-police-data-board_52899-89.jpg?w=360",
+      "leftProfile": "https://img.freepik.com/premium-vector/prisoner-number-twelve-with-police-data-board_52899-89.jpg?w=360",
+      "rightProfile": "https://img.freepik.com/premium-vector/prisoner-number-twelve-with-police-data-board_52899-89.jpg?w=360",
+      "takenOn": "Mon Sep 05 2022 11:31:16 GMT+0530",
+      "areReviewed": false
+    },
+    "information": {
+      "cprNumber": "1",
+      "name": "Harsh",
+      "currentAddress": "Varachha",
+      "physicalDescription": {}
+    },
+    "createdAt": "Mon Sep 05 2022 11:31:16 GMT+0530"
+  },
+  {
+    "personType": "asylumSeeker",
+    "photos": {
+      "frontView": "https://www.amnesty.org/en/wp-content/uploads/2021/03/a3f0fdda796c9739113b6f951f7a91383a6b827b.jpg",
+      "leftProfile": "https://www.amnesty.org/en/wp-content/uploads/2021/03/a3f0fdda796c9739113b6f951f7a91383a6b827b.jpg",
+      "rightProfile": "https://www.amnesty.org/en/wp-content/uploads/2021/03/a3f0fdda796c9739113b6f951f7a91383a6b827b.jpg",
+      "takenOn": "Mon Sep 04 2022 11:29:24 GMT+0530"
+    },
+    "information": {
+      "cprNumber": "3",
+      "name": "Kajal",
+      "currentAddress": "Adajan",
+      "physicalDescription": {}
+    },
+    "createdAt": "Mon Sep 04 2022 11:29:24 GMT+0530"
+  },
+  {
+    "personType": "asylumSeeker",
+    "photos": {
+      "frontView": "https://decider.com/wp-content/uploads/2022/02/The-Worst-Person-in-the-World.jpg?quality=75&strip=all&w=1200",
+      "leftProfile": "https://decider.com/wp-content/uploads/2022/02/The-Worst-Person-in-the-World.jpg?quality=75&strip=all&w=1200",
+      "rightProfile": "https://decider.com/wp-content/uploads/2022/02/The-Worst-Person-in-the-World.jpg?quality=75&strip=all&w=1200",
+      "takenOn": "Mon Sep 03 2022 11:29:24 GMT+0530"
+    },
+    "information": {
+      "cprNumber": "4",
+      "name": "Zeel",
+      "currentAddress": "Vesu",
+      "physicalDescription": {}
+    },
+    "createdAt": "Mon Sep 03 2022 11:29:24 GMT+0530"
+  }
+]
